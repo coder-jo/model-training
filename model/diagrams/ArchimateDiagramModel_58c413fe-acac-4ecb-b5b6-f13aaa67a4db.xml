@@ -4,6 +4,28 @@
     name="IT Services"
     id="58c413fe-acac-4ecb-b5b6-f13aaa67a4db">
   <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="762c0638-9655-470c-b181-37ba8f9e3763"
+      name="Group B"
+      textAlignment="1">
+    <bounds
+        x="216"
+        y="408"
+        width="613"
+        height="241"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="3dc29da8-3664-4711-8edf-201afdd0e668"
+      name="Group A"
+      textAlignment="1">
+    <bounds
+        x="216"
+        y="144"
+        width="613"
+        height="241"/>
+  </children>
+  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="7ff385a5-0a67-415e-b676-db3e0429129c">
     <sourceConnections
@@ -58,5 +80,17 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_2821db45-2054-4f48-885e-4725acba6f51.xml#2821db45-2054-4f48-885e-4725acba6f51"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="5882242e-fb3c-4596-9d12-60b441098e9f">
+    <bounds
+        x="372"
+        y="456"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_5f143473-2323-477a-823a-7d67d8ca0f96.xml#5f143473-2323-477a-823a-7d67d8ca0f96"/>
   </children>
 </archimate:ArchimateDiagramModel>
